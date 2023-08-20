@@ -11,8 +11,7 @@ curl \
 gnupg \
 unzip \
 make \
-git \
-wget
+git
 echo "------------------------------------"
 echo "System Updated. Starting Docker installation..."
 echo "------------------------------------"
